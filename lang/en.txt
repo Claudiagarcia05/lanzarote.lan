@@ -1,0 +1,66 @@
+hola:hello
+adios:goodbye
+
+portfolio:Portfolio
+acercade:About
+contacto:Contact
+
+titulo:List
+titulolist:List
+titulocons:View
+tituloalta:Create
+titulomodi:Edit
+titulobaja:Delete
+
+enviar:Submit
+enviaralta:Create
+enviarmodi:Update
+enviarbaja:Delete
+enviarcons:View
+
+nick:Username
+placeholdernick:Nickname
+placeholdernombre:Enter a name...
+placeholderapellidos:Enter your last name...
+placeholderemail:Enter a valid email...
+placeholdercalendario_curso:Select the course...
+
+password:Password
+nombre:Name
+escribe_tu_nombre:Write your name...
+apellidos:Last name
+escribe_tus_apellidos:Write your last name...
+email:E-mail
+
+valor_obligatorio:Required field
+operacion_exito:Operation completed successfully
+
+usuarios:Users
+title_usuarios:User Management
+
+horario:Schedule
+title_horario:Schedule Management
+
+aulas:Classrooms
+title_aulas:Classroom Management
+
+aula_nombre:Classroom Name
+aula_letra:Wing
+aula_numero:Room Number
+aula_planta:Floor
+
+placeholder_aula_nombre:Enter the classroom name...
+placeholder_aula_numero:Enter the room number...
+
+planta_P:First Floor
+planta_S:Second Floor
+planta_T:Third Floor
+
+letra_D:Right Wing
+letra_I:Left Wing
+
+nueva_aula:New Classroom
+editar_aula:Edit Classroom
+eliminar_aula:Delete Classroom
+
+volver:Back
